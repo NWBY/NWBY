@@ -6,3 +6,4 @@ I love learning new languages, frameworks and technologies and so I'm frequently
 - [Pit](https://github.com/NWBY/pit) - CLI written in Python that simplifies common Git commands
 - [Prototype Blockchain](https://github.com/NWBY/hackday-blockchain) - A prototype proof-of-work blockchain written in Python. This is still a WIP 🚧
 - [Panther](https://github.com/NWBY/panther) - Lightweight programming language written in Go. This project is on hold indefinitely whilst I explore other projects.
+- [Text Editor](https://github.com/NWBY/hackday-editor) - A terminal based text editor written in Go
